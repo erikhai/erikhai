@@ -10,7 +10,7 @@ I'm actively seeking a role that enables me to grow as a full-stack developer wh
 
 Languages: Python, Java, C, C++, Dart, HTML, CSS, JavaScript
 
-Frameworks & Libraries: React, Flask, Django, Flutter, TensorFlow, PyTorch, scikit-learn
+Frameworks & Libraries: React, Flask, Django, Flutter, TensorFlow, scikit-learn
 
 Machine Learning & Data Processing: CNNs, Data Preprocessing, Model Training & Optimization, Feature Engineering, NumPy, PyTorch
 
