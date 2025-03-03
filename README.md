@@ -8,15 +8,13 @@ I'm actively seeking a role that enables me to grow as a full-stack developer wh
 
 # 🔧 Technologies & Tools
 
-Languages: Python, Java, C, C++, Dart, HTML, CSS, JavaScript
+•	Languages: Python, Java, C, C++, Dart, HTML, CSS, JavaScript
+•	Frameworks & Libraries: React, Flask, Django, Flutter, TensorFlow, PyTorch, scikit-learn
+•	Machine Learning & Data Processing: CNNs, Data Preprocessing, Model Training & Optimization, Feature Engineering, NumPy, PyTorch
+•	Databases: MongoDB, PostgreSQL
+•	DevOps & Cloud: Docker, Git, AWS
+•	Design & Prototyping: Figma
 
-Frameworks: React, Flask, Django, Flutter
-
-Databases: MongoDB, PostgreSQL
-
-Design Tools: Figma
-
-Other Tools: Git, Docker, AWS, Firebase
 
 # 📫 Connect with Me
 
