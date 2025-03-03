@@ -16,8 +16,11 @@ Other Tools: Git, Docker, AWS, Firebase
 
 # 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/erik-hai/
+[LinkedIn](https://www.linkedin.com/in/erik-hai/)
 
-Portfolio: https://erikhai.github.io/ErikHai-Website/
+[Portfolio](https://erikhai.github.io/ErikHai-Website/)
+
+
+
 
 Thanks for stopping by! 😊 Happy coding! 🚀
